@@ -29,17 +29,19 @@ Solder the diode as shown in the following figure.
 ![Diode direction](img/smd-diode-direction-1.png)
 
 Solder the WS2812 led's as shown in the following figure.
+
 ![WS2812 direction](img/ws2812-direction-1.png)
 
 ## Solder parts on top side
 
-![PCB](img/pcb-top-1.jpg)
-
 Solder 1x WS2812 led to the top side. Pay attention to orientation, WS2812 led's are polarized.  
-Check the image above.
+Check the image below.
+
+![PCB](img/pcb-top-1.jpg)
 
 **I strongly recommend to use sockets for the Pro Micro.**  
 If something went wrong, it's much easier to replace the Pro Micro.
+
 
 [Mill-Max Single Row Socket Headers](https://keycapsss.com/keyboard-parts/parts/100/single-row-socket-headers-pins-mill-max-series-315) or [Spring-loaded pin headers](https://keycapsss.com/keyboard-parts/parts/91/spring-loaded-pin-headers-12-pin-2pcs-conthrough) will work.
 
@@ -48,10 +50,12 @@ If something went wrong, it's much easier to replace the Pro Micro.
 Before installing the Pro Micro, no matter which (can also happen on the Elite C, or Puchi-C), check whether they are working by plugging them in and flashing the default keymap.
 
 Insert the pins (you can also use legs from through hole diodes/resistor) with a plier into the sockets.
-![](img/pro-micro-sockets-1.jpg)
+
+![](img/pro-micro-socket-1.jpg)
 
 Place the Pro Micro (Micro-USB socket facing down).  
 Solder the pins and shorten the pins with diagonal pliers.
+
 ![Pro Micro clone Puchi-C](img/pro-micro-clone-puchi-c-1.jpg)
 
 ## Optional: Install the 2U stabilizer
@@ -59,6 +63,7 @@ Solder the pins and shorten the pins with diagonal pliers.
 The stabilizer is optional, but improves the feeling.
 
 To improve the sound of the stabilizer, i recommend to attach a [foam sticker](https://keycapsss.com/keyboard-parts/parts/137/stabilizer-foam-sticker).
+
 ![](img/stabilizer-sticker-1.jpg)
 
 ![](img/stabilizer-sticker-2.jpg)
@@ -88,12 +93,15 @@ Confirming that there are no bends in the switch pins.
 ## Attach the protection cover
 
 You need 3x M2x4mm screws, 3x4mm spacer and 3x M2x8mm screws and the 2mm acrylic cover.
+
 ![Parts for the acrylic cover](img/protection-cover-1.jpg)
 
 Fasten the spacer with the 4mm screws like on the image.
+
 ![Parts for the acrylic cover](img/protection-cover-2.jpg)
 
 Place the protection cover on the top side of the pcb and fasten it with the 8mm screws from the bottom side.
+
 ![Parts for the acrylic cover](img/protection-cover-3.jpg)
 
 
