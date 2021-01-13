@@ -1,5 +1,8 @@
 # Reviung41 Build-Guide
 
+![Pull Request's are welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) [![Discord](https://img.shields.io/discord/548530462419582996?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/frjFXZB "Redirect to Keycapsss Discord")
+
+
 <!-- TOC depthfrom:2 depthto:2 -->
 
 - [Solder parts on bottom side](#solder-parts-on-bottom-side)
