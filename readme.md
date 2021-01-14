@@ -47,7 +47,7 @@ If something went wrong, it's much easier to replace the Pro Micro.
 
 ## Attach the Pro Micro (with sockets)
 
-Before installing the Pro Micro, no matter which (can also happen on the Elite C, or Puchi-C), check whether they are working by plugging them in and flashing the default keymap.
+**Before installing the Pro Micro, no matter which (can also happen on the Elite C, or Puchi-C), check whether they are working by plugging them in and [flashing the default keymap](#flash-qmk-firmware).**
 
 Insert the pins (you can also use legs from through hole diodes/resistor) with a plier into the sockets.
 
@@ -115,7 +115,7 @@ Put the bottom acrylic plate on the bottom and fasten it with 11x M2x5mm screws.
 
 ![bottom plate](img/bottom-plate-2.jpg)
 
-Attach the rubber feeds to the bottom plate.
+Attach the rubber feed to the bottom plate.
 
 
 ## Flash QMK firmware
@@ -128,6 +128,6 @@ Clone/download the QMK firmware and execute the following in the [qmk_firmware](
 
     make reviung41:default:flash
     
-When `Detecting USB port, reset your controller now...` is displayed, press the reset button on the keyboard to start writing. Each half of the keyboard must be programmed separately using this approach.
+When `Detecting USB port, reset your controller now...` is displayed, press the reset button on the keyboard to start writing.
 
 [Default Keymap File](https://github.com/qmk/qmk_firmware/blob/master/keyboards/reviung41/keymaps/default/keymap.c)
