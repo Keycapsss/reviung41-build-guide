@@ -16,6 +16,7 @@
 
 <!-- /TOC -->
 
+[Japanese Build-Guide](https://reviung.com/build-guide/391/)
 
 ## Solder parts on bottom side
 
@@ -28,7 +29,8 @@ Pay attention to orientation, SMD diodes and  WS2812 led's are polarized. If the
 Solder the diode as shown in the following figure.
 ![Diode direction](img/smd-diode-direction-1.png)
 
-Solder the WS2812 led's as shown in the following figure.
+Solder the WS2812 led's as shown in the following figure.  
+[Video: How to solder the WS2812 led's.](https://twitter.com/GTIPS_SH/status/1204244088867807234?s=20)
 
 ![WS2812 direction](img/ws2812-direction-1.png)
 
