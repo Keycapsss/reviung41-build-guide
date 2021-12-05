@@ -2,20 +2,6 @@
 
 ![Pull Request's are welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) [![Discord](https://img.shields.io/discord/548530462419582996?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/frjFXZB "Redirect to Keycapsss Discord")
 
-
-<!-- TOC depthfrom:2 depthto:2 -->
-
-- [Solder parts on bottom side](#solder-parts-on-bottom-side)
-- [Solder parts on top side](#solder-parts-on-top-side)
-- [Attach the Pro Micro with sockets](#attach-the-pro-micro-with-sockets)
-- [Optional: Install the 2U stabilizer](#optional-install-the-2u-stabilizer)
-- [Top plate assembly](#top-plate-assembly)
-- [Attach the protection cover](#attach-the-protection-cover)
-- [Bottom plate assembly](#bottom-plate-assembly)
-- [Flash QMK firmware](#flash-qmk-firmware)
-
-<!-- /TOC -->
-
 [Japanese Build-Guide](https://reviung.com/build-guide/391/)
 
 ## Solder parts on bottom side
